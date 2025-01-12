@@ -34,5 +34,6 @@ public final class Challenge {
         return "Challenge(factorA=" + this.getFactorA() + ", factorB=" + this.
                 getFactorB() + ")";
     }*/
+    //test
 }
 
